@@ -85,5 +85,6 @@ namespace Calculatrice
         {
             Ecran.Text += "*";
         }
+
     }
 }
