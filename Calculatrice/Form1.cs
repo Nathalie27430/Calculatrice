@@ -78,7 +78,7 @@ namespace Calculatrice
         {
            Ecran.Clear();
            
-        ShowDialog
+       
         }
 
         private void Multipli_Click(object sender, EventArgs e)
